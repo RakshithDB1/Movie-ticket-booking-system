@@ -1,1 +1,1 @@
-This is the master branch of project.
+This is the Full stack project regarding Movie ticket booking System.
